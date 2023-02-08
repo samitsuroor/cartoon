@@ -1,0 +1,13 @@
+body{
+    background: url(bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.gif{
+    display: flex;
+    align-items: center;
+    gap:95px;
+    margin-top:17%;
+}
